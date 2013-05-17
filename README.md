@@ -36,3 +36,40 @@ colorshop
 <h4>GET INVOLVED</h4>	<div id="plugin-tags">
 	<strong>Tags:</strong> <a rel="tag" href="http://wordpress.org/extend/plugins/tags/affiliate">affiliate</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/cart">cart</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/checkout">checkout</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/colorvila">colorvila</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/commerce">commerce</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/configurable">configurable</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/digital">digital</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/download">download</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/downloadable">downloadable</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/e-commerce">e-commerce</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/ecommerce">ecommerce</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/inventory">inventory</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/reports">reports</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/sales">sales</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/sell">sell</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/shipping">shipping</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/shop">shop</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/shopping">shopping</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/stock">stock</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/store">store</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/tax">tax</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/variable">variable</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/widgets">widgets</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/wordpress-ecommerce">wordpress ecommerce</a>	</div>
 </div>
+
+Install
+=========
+<div class="block-content"><h4>Minimum Requirements</h4>
+
+<ul>
+<li>WordPress 3.5 or greater</li>
+<li>PHP version 5.2.4 or greater</li>
+<li>MySQL version 5.0 or greater</li>
+<li>Some payment gateways require fsockopen support (for IPN access)</li>
+</ul>
+
+<h4>Automatic installation</h4>
+
+<p>Automatic installation is the easiest option as WordPress handles the file transfers itself and you don¡¯t even need to leave your web browser. To do an automatic install of ColorShop, log in to your WordPress admin panel, navigate to the Plugins menu and click Add New.</p>
+
+<p>In the search field type ¡°ColorShop¡± and click Search Plugins. Once you¡¯ve found our eCommerce plugin you can view details about it such as the the point release, rating and description. Most importantly of course, you can install it by simply clicking Install Now. After clicking that link you will be asked if you¡¯re sure you want to install the plugin. Click yes and WordPress will automatically complete the installation.</p>
+
+<h4>Manual installation</h4>
+
+<p>The manual installation method involves downloading our eCommerce plugin and uploading it to your webserver via your favourite FTP application.</p>
+
+<ol>
+<li>Download the plugin file to your computer and unzip it</li>
+<li>Using an FTP program, or your hosting control panel, upload the unzipped plugin folder to your WordPress installation¡¯s wp-content/plugins/ directory.</li>
+<li>Activate the plugin from the Plugins menu within the WordPress admin.</li>
+</ol>
+
+<h4>Upgrading</h4>
+
+<p>Automatic updates should work like a charm; as always though, ensure you backup your site just in case.</p>
+
+<p>If on the off-chance you do encounter issues with the shop/category pages after an update you simply need to flush the permalinks by going to WordPress &gt; Settings &gt; Permalinks and hitting 'save'. That should return things to normal.</p>
+
+<h4>Dummy data</h4>
+
+<h4>Premium Extensions</h4></div>
