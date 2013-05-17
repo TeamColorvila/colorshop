@@ -33,10 +33,6 @@ colorshop
 <li><strong>ShareYourCart</strong> - Encourage your customers to share their purchases in return for a coupon</li>
 </ul>
 
-<h4>GET INVOLVED</h4>	<div id="plugin-tags">
-	<strong>Tags:</strong> <a rel="tag" href="http://wordpress.org/extend/plugins/tags/affiliate">affiliate</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/cart">cart</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/checkout">checkout</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/colorvila">colorvila</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/commerce">commerce</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/configurable">configurable</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/digital">digital</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/download">download</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/downloadable">downloadable</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/e-commerce">e-commerce</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/ecommerce">ecommerce</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/inventory">inventory</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/reports">reports</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/sales">sales</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/sell">sell</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/shipping">shipping</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/shop">shop</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/shopping">shopping</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/stock">stock</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/store">store</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/tax">tax</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/variable">variable</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/widgets">widgets</a>, <a rel="tag" href="http://wordpress.org/extend/plugins/tags/wordpress-ecommerce">wordpress ecommerce</a>	</div>
-</div>
-
 Install
 =========
 <div class="block-content"><h4>Minimum Requirements</h4>
@@ -69,7 +65,3 @@ Install
 <p>Automatic updates should work like a charm; as always though, ensure you backup your site just in case.</p>
 
 <p>If on the off-chance you do encounter issues with the shop/category pages after an update you simply need to flush the permalinks by going to WordPress &gt; Settings &gt; Permalinks and hitting 'save'. That should return things to normal.</p>
-
-<h4>Dummy data</h4>
-
-<h4>Premium Extensions</h4></div>
